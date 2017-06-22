@@ -1,6 +1,6 @@
 <template>
   <div>
-    <img class="moon" src="~assets/FullMoon2010.png" />
+    <img class="moon" src="~assets/img/FullMoon2010.png" />
     <Navigation />
     <nuxt/>
   </div>

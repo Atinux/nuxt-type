@@ -15,7 +15,7 @@
     </section>
 
     <PhotoArea>
-      <img class="photo" src="~assets/photo-boat.jpg" width="100%"/>
+      <img class="photo" src="~assets/img/photo-boat.jpg" width="100%"/>
     </PhotoArea>
 
   </div><!--container-->

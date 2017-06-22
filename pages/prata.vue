@@ -16,7 +16,7 @@
     </section>
 
     <PhotoArea>
-      <img class="photo" src="~assets/photo-mount.jpg" width="100%"/>
+      <img class="photo" src="~assets/img/photo-mount.jpg" width="100%"/>
     </PhotoArea>
 
   </div><!--container-->
