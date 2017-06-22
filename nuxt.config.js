@@ -29,6 +29,7 @@ module.exports = {
   ** Extract global CSS in a separate file in production
   */
   build: {
+    vendor: ['gsap'],
     extend(config, { isClient }) {
       if (isClient) {
         // Add animation library into client-side bundle directly
