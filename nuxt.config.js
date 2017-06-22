@@ -29,7 +29,6 @@ module.exports = {
   ** Extract global CSS in a separate file in production
   */
   build: {
-    extractCSS: true,
     extend(config, { isClient }) {
       if (isClient) {
         // Add animation library into client-side bundle directly
